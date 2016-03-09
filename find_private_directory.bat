@@ -1,4 +1,5 @@
-:: Script was tested on:
+:: W razie problemów spróbuj "Uruchomić jako administrator" / Try to "Run as administrator" in case of problems
+:: Skrypt został sprawdzony na: / Script was tested on:
 :: - Win 10 64-bit
 :: - Win 7 32-bit (by Nycer)
 
