@@ -1,3 +1,7 @@
+:: Script was tested on:
+:: - Win 10 64-bit
+:: - Win 7 32-bit (by Nycer)
+
 @echo off
 
 set CACHE_PATH=
